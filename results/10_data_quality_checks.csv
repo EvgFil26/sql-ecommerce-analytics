@@ -1,0 +1,5 @@
+check_name,problems
+orders without items,0
+orders before customer signup,0
+items priced above list price,0
+duplicate customer ids,0

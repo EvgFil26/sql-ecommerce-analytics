@@ -1,0 +1,7 @@
+city,customers,orders_per_customer,revenue_per_customer
+Moscow,485,3.48,12126.0
+Yekaterinburg,157,3.43,12064.0
+Saint Petersburg,274,3.24,11825.0
+Novosibirsk,173,3.35,11547.0
+Kazan,188,3.03,10234.0
+Samara,142,2.74,9344.0
